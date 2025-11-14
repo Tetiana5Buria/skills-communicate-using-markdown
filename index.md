@@ -7,6 +7,7 @@ console.log("I love Shpp");
 ```
 
 My wish list:
-- [x] To find a good job
-- [x] To earn a lot of money
-- [x] Peace in all world
+
+ To find a good job
+ To earn a lot of money
+ Peace in all world
