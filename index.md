@@ -5,3 +5,8 @@
 ```js
 console.log("I love Shpp");
 ```
+
+My wish list:
+- [x] To find a good job
+- [x] To earn a lot of money
+- [x] Peace in all world
