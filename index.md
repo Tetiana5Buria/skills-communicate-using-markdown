@@ -2,12 +2,15 @@
 ##### Hello my friends =)
 
 ![ my mood today ](https://png.pngtree.com/background/20230606/original/pngtree-an-orange-tabby-cat-is-yawning-in-flowers-picture-image_2880818.jpg)
+
+
+
+
 ```js
 console.log("I love Shpp");
 ```
 
 My wish list:
-
- To find a good job
- To earn a lot of money
- Peace in all world
+- [x] To find a good job
+- [x] To earn a lot of money
+- [x] Peace in all world
